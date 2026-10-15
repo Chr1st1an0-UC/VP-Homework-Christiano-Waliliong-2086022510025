@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/weeks01/h1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks01/h1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks01/h1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks02/h1/h1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks02/h1/h1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks02/h1/h1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks02/lab02_start/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks02/lab02_start/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks02/lab02_start/build" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks03/h1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks03/h1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks03/h1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks04/h1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks04/h1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/weeks04/h1/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
